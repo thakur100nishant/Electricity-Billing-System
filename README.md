@@ -1,5 +1,5 @@
 # Electricity-Billing-System
-creating an electricity billing system using Java involves several key components and steps.
+Creating an electricity billing system using Java involves several key components and steps.
 
 Components of the System -
 
